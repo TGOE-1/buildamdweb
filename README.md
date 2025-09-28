@@ -15,9 +15,13 @@
 
 ![picture4](./picture/域名获取4.png)
 
-在列表中选择main，然后点击save
+在列表中选择main
 
 ![picture5](./picture/域名获取5.png)
+
+点击save
+
+![picture7](./picture/域名获取7.png)
 
 等待五分钟，刷新界面，绿框处就是你的网址域名，你可以直接点击边上的visit site，或者手动输入域名搜索
 
