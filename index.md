@@ -3,6 +3,10 @@
 
 ![picture1](./picture/域名获取1.png)
 
+## github会优先将名为index.md的文件设置为主页，否则查找README.md作为主页。请确保你的库中至少有这两个文件之一，如果没有这两个文件，将会报错
+
+![picture8](./picture/主页优先级.png)
+
 ## 进入库文件后，点击图片红框中的setting
 
 ![picture2](./picture/域名获取2.png)
@@ -26,3 +30,5 @@
 ## 等待五分钟，刷新界面，绿框处就是你的网址域名，你可以直接点击边上的visit site，或者手动输入域名搜索
 
 ![picture6](./picture/域名获取6.png)
+
+
