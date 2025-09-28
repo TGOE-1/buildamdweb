@@ -1,2 +1,2 @@
-# buildamdweb
-如何用markdown做一个网页的教程（这也是用markdown做的）
+# 如何让你制作的网址获得一个域名？
+打开你的github
