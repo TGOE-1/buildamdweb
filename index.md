@@ -3,7 +3,7 @@
 
 ![picture1](./picture/域名获取1.png)
 
-## github会优先将名为index.md的文件设置为主页，否则查找README.md作为主页。请确保你的库中至少有这两个文件之一，如果没有这两个文件，将会报错
+## github会优先将名为index的文件设置为主页，否则查找README作为主页。请确保你的库中至少有这两个文件之一，如果没有这两个文件，将会报错
 
 ![picture8](./picture/主页优先级.png)
 
