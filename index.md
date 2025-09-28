@@ -15,7 +15,7 @@
 
 ![picture3](./picture/域名获取3.png)
 
-## 在page界面，先点击none打开列表
+## 在pages界面，先点击none打开列表
 
 ![picture4](./picture/域名获取4.png)
 
